@@ -4,4 +4,4 @@
  
  ------------
 
-### It's a next crud projects using NextJS, TailwindCSS e Firebase
+### It's a next crud projects using NextJS, TailwindCSS, Firebase and TypeScript.
